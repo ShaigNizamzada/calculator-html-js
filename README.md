@@ -49,4 +49,4 @@ node test.js
 
 ## Canlı link
 
-Deploy-dan sonra bura əlavə olunacaq.
+https://calculator-html-js-zeta.vercel.app
